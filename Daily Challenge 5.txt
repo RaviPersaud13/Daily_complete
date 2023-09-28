@@ -1,0 +1,12 @@
+
+Use of function 
+
+Correct Gui 
+
+Comment Header 
+
+Code comments 
+
+Correct results 
+
+For your RC, errors in result (use Farads - easier)
